@@ -1,0 +1,37 @@
+Problem Definition:
+Fabrikam is MNC and wanted to build and host
+1.Information Management System(IMS)
+2.Internet public website for their Customers to know about products with online shopping experience(ECommerce)
+3.Intranet for employees to access Feedback Management System and Leave Management System
+
+Solution:
+For this system to build you need to have internet connection.Fabikam has Amazon Webservices Cloud subscription,so they can use it to build and host this Information System.
+Actors(Users) of this system are:
+1.Admin
+2.Employee
+3.Customer
+
+Functional Requirements:
+1.Login users(Admin,Employee,Customer)
+2.Authenticate the user
+
+1.Login as an admin:
+		1.Manage users
+		2.Manage website
+
+2.Login as a customer:
+		1.Product catalogue
+		2.Add to Shopping cart
+		3.Payment 
+		4.checkout
+3.Login as an employee:
+		1.enter feedback
+		2.mark attendance
+
+Non-Funcional Requirements:
+1.Security
+2.Reliability
+3.Scalability
+
+
+
